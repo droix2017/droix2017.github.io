@@ -5,8 +5,8 @@ Gem::Specification.new do |s|
   s.version       = "0.1.0"
   s.license       = "CC0-1.0"
   s.authors       = ["Jason Costello", "GitHub, Inc."]
-  s.email         = ["opensource+jekyll-theme-slate@github.com"]
-  s.homepage      = "https://github.com/pages-themes/slate"
+  s.email         = ["droix123456@hotmail.com"]
+  s.homepage      = "https://github.com/droix2017/"
   s.summary       = "Slate is a Jekyll theme for GitHub Pages"
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
